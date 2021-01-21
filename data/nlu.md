@@ -5,6 +5,7 @@
 - good morning
 - good evening
 - hey there
+- Hello
 
 ## intent:goodbye
 - bye
@@ -54,3 +55,11 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:rivers_verify
+- need access to rivers account
+- I need access
+- I need access to rivers account
+
+## intent:rivers_incident
+- Create rivers incident
